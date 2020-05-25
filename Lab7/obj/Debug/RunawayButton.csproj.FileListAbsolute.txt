@@ -1,0 +1,9 @@
+C:\Users\Maxim\source\repos\Lab7\Lab7\bin\Debug\RunawayButton.exe.config
+C:\Users\Maxim\source\repos\Lab7\Lab7\bin\Debug\RunawayButton.exe
+C:\Users\Maxim\source\repos\Lab7\Lab7\bin\Debug\RunawayButton.pdb
+C:\Users\Maxim\source\repos\Lab7\Lab7\obj\Debug\RunawayButton.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Maxim\source\repos\Lab7\Lab7\obj\Debug\RunawayButton.Properties.Resources.resources
+C:\Users\Maxim\source\repos\Lab7\Lab7\obj\Debug\RunawayButton.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\Lab7\Lab7\obj\Debug\RunawayButton.exe
+C:\Users\Maxim\source\repos\Lab7\Lab7\obj\Debug\RunawayButton.pdb

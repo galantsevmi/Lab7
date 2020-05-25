@@ -1,0 +1,9 @@
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\bin\Debug\Lab7_2.exe.config
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\bin\Debug\Lab7_2.exe
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\bin\Debug\Lab7_2.pdb
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\obj\Debug\Lab7_2.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\obj\Debug\Lab7_2.Form1.resources
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\obj\Debug\Lab7_2.Properties.Resources.resources
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\obj\Debug\Lab7_2.csproj.GenerateResource.cache
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\obj\Debug\Lab7_2.exe
+C:\Users\Maxim\source\repos\Lab7\Lab7_2\obj\Debug\Lab7_2.pdb
